@@ -1,1 +1,1 @@
-# MayorDeTres
+# MayorDeTres: The project consists of asking the user for 3 numbers through the console. After you have given each number of your choice in the program it will automatically order the numbers from highest to lowest
